@@ -73,8 +73,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forks007&theme=noctis_minimus&layout=compact" />
 </a>
 
-![Snake animation](https://github.com/forks007/forks007/blob/output/github-contribution-grid-snake.svg)
-  
+
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
